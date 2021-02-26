@@ -1,14 +1,12 @@
 <p align="center">
-   <img src="./.github/logo-full.svg" alt="Move It" width="350"/>
+  ![alt text](https://github.com/priolilucas1/Move.it/blob/master/logo-full.svg?raw=true)
 </p>
 
 Next Level Week #04 #NLW @Rocketseat
 
-<div align="center">
-  <sub>Projeto do NLW #4. Construído por
+  <sub>Construído por
     <a href="https://github.com/priolilucas1">Lucas Prioli</a>
   </sub>
-</div>
 
 <h2 align="left"> Download do Layout: </h2>
 <p align="center">
@@ -17,19 +15,19 @@ Next Level Week #04 #NLW @Rocketseat
     </a>
 </p>
 
-# :computer: Tecnologias usadas no projeto:
+# Tecnologias usadas no projeto:
 
 * [React](https://reactjs.org/)
 * [Next.js](https://nextjs.org/) 
 * [Typescript](https://www.typescriptlang.org/)                 
 
-# :construction_worker: Como rodar o projeto
+# Como utilizar o projeto
 ```bash
 # Clone no repositório
 $ git clone https://github.com/RafaelGoulartB/move.it.git
 ```
 
-### 💻 Rodar o projeto
+### Rodar o projeto
 
 ```bash
 # Instalar dependências
