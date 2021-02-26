@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/logo.svg" alt="Move It" width="350"/>
+   <img src="./.github/logo-full.svg" alt="Move It" width="350"/>
 </p>
 
 Next Level Week #04 #NLW @Rocketseat
