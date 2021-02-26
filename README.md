@@ -10,11 +10,11 @@ Next Level Week #04 #NLW @Rocketseat
   
 <h2>🖥 Interface web:</h2>
 
-<div>
-  <img src="./public/assets/BeginCicle.png" height="600" />
-  <br/>
-  <img src="./public/assets/NewChallenge.png"  height="600" />
-</div>
+<p>
+  <img src="./public/assets/Home.png" width="450"/>
+  <img src="./public/assets/NewChallenge.png" width="450"/>
+  <img src="./public/assets/LevelUp.png" width="450" center/>
+</p>
 
 
 <h2 align="left"> Download do Layout: </h2>
