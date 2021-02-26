@@ -8,7 +8,7 @@ Next Level Week #04 #NLW @Rocketseat
     <a href="https://github.com/priolilucas1">Lucas Prioli</a>
   </sub>
   
-<h2>Interface web:</h2>
+<h2>🖥 Interface web:</h2>
 
 <div>
   <img src="./public/assets/BeginCicle.png" height="600" />
@@ -24,13 +24,13 @@ Next Level Week #04 #NLW @Rocketseat
     </a>
 </p>
 
-# Tecnologias usadas no projeto:
+# 🛠 Tecnologias:
 
 * [React](https://reactjs.org/)
 * [Next.js](https://nextjs.org/) 
 * [Typescript](https://www.typescriptlang.org/)                 
 
-# Como utilizar o projeto
+# 🚩 Como utilizar o projeto
 ```bash
 # Clone no repositório
 $ git clone https://github.com/RafaelGoulartB/move.it.git
