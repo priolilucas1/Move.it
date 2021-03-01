@@ -1,6 +1,9 @@
 import { useContext } from "react";
 import { CountdownContext } from "../contexts/CoutdownContext";
 
+import { FaPlay } from "react-icons/fa";
+import { MdClear } from "react-icons/md";
+
 import styles from "../styles/components/Countdown.module.css";
 
 export default function Countdown() {
@@ -44,6 +47,7 @@ export default function Countdown() {
               onClick={resetCountdown}
             >
               Abandonar ciclo
+              <MdClear size={18} style={{ marginLeft: "5px" }} />
             </button>
           ) : (
             <button
@@ -52,6 +56,7 @@ export default function Countdown() {
               onClick={startCountdown}
             >
               Iniciar um ciclo
+              <FaPlay size={14} style={{ marginLeft: "10px" }} />
             </button>
           )}
         </>
