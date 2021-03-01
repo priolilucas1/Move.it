@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { CountdownContext } from "../contexts/CoutdownContext";
 
-import { FaPlay } from "react-icons/fa";
+import { FaPlay, FaCheckCircle } from "react-icons/fa";
 import { MdClear } from "react-icons/md";
 
 import styles from "../styles/components/Countdown.module.css";
@@ -36,7 +36,11 @@ export default function Countdown() {
       {hasFinished ? (
         <button disabled className={styles.countdownButton}>
           Ciclo encerrado
-          <img src="icons/vector.png" alt="Finished icon" />
+          <FaCheckCircle
+            size={18}
+            color="#4cd62b"
+            style={{ marginLeft: "8px" }}
+          />
         </button>
       ) : (
         <>
