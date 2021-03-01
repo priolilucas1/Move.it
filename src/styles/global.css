@@ -44,9 +44,29 @@ button {
 
 button {
   cursor: pointer;
+  outline: none;
+  border: none;
 }
 
 a {
   color: inherit;
   text-decoration: none;
+}
+
+::-webkit-input-placeholder {
+  color: var(--white);
+}
+
+:-moz-placeholder {
+  /* Firefox 18- */
+  color: var(--white);
+}
+
+::-moz-placeholder {
+  /* Firefox 19+ */
+  color: var(--white);
+}
+
+:-ms-input-placeholder {
+  color: var(--white);
 }
