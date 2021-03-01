@@ -4,11 +4,17 @@ export default function Sidebar() {
   return (
     <div className={styles.sideBarContainer}>
       <div className={styles.sideBarContent}>
-        <img src="icons/logoHome.svg" alt="Logo" />
+        <button>
+          <img src="icons/logoHome.svg" alt="Logo" />
+        </button>
 
         <div className={styles.sideBarButtons}>
-          <img src="icons/home-icon.svg" alt="Home icon" />
-          <img src="icons/medal-icon.svg" alt="Medal icon" />
+          <button>
+            <img src="icons/home-icon.svg" alt="Home icon" />
+          </button>
+          <button>
+            <img src="icons/medal-icon.svg" alt="Medal icon" />
+          </button>
         </div>
       </div>
     </div>
