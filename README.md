@@ -33,7 +33,7 @@ Next Level Week #04 #NLW @Rocketseat
 # 🚩 Como utilizar o projeto
 ```bash
 # Clone no repositório
-$ git clone https://github.com/RafaelGoulartB/move.it.git
+$ git clone https://github.com/priolilucas1/Move.it.git
 ```
 
 ### Rodar o projeto
