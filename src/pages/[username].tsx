@@ -38,7 +38,7 @@ export default function Home(props: HomeProps) {
           <title>{user.name} | Move.it</title>
         </Head>
 
-        <Sidebar />
+        <Sidebar username={user.name} />
 
         <div className={styles.content}>
           <ExperienceBar />
