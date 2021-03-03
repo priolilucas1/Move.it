@@ -10,11 +10,11 @@ Next Level Week #04 #NLW @Rocketseat
   
 <h2>🖥 Interface web:</h2>
 
-<div>
-  <img src="./public/assets/BeginCicle.png" height="600" />
-  <br/>
-  <img src="./public/assets/NewChallenge.png"  height="600" />
-</div>
+<p>
+  <img src="./public/assets/Home.png" width="470"/>
+  <img src="./public/assets/NewChallenge.png" width="470"/>
+  <img src="./public/assets/LevelUp.png" width="470" center/>
+</p>
 
 
 <h2 align="left"> Download do Layout: </h2>
@@ -33,7 +33,7 @@ Next Level Week #04 #NLW @Rocketseat
 # 🚩 Como utilizar o projeto
 ```bash
 # Clone no repositório
-$ git clone https://github.com/RafaelGoulartB/move.it.git
+$ git clone https://github.com/priolilucas1/Move.it.git
 ```
 
 ### Rodar o projeto
