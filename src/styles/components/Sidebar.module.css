@@ -2,12 +2,12 @@
   width: 6%;
   height: 100vh;
 
-  background: var(--white);
+  background: linear-gradient(180deg, #ffffff 0%, rgba(255, 255, 255, 0) 100%);
   box-shadow: 0 0 60px rgba(0, 0, 0, 0.05);
 }
 
 .sideBarContent {
-  height: 50%;
+  height: 90%;
   margin-top: 30px;
 
   display: flex;
@@ -25,9 +25,14 @@
 }
 
 .sideBarButtons {
-  height: 110px;
+  height: 120px;
 
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+}
+
+.sideBarButtons button {
+  width: 7.2rem;
+  height: 50px;
 }
