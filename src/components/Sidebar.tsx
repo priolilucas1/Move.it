@@ -29,13 +29,6 @@ export default function Sidebar({ username }: SideBarProps) {
     router.push(`/${username}`);
   }
 
-  function leaderBoardNavigation() {
-    if (router.pathname === `/leaderboard`) {
-      return;
-    }
-    router.push(`/leaderboard`);
-  }
-
   function swalPopUp() {
     swal({
       title: "Você está sendo deslogado",
@@ -85,7 +78,7 @@ export default function Sidebar({ username }: SideBarProps) {
             <FiHome size={36} />
           </button>
           <button
-            onClick={leaderBoardNavigation}
+            disabled
             style={
               isLeaderBoard
                 ? {
