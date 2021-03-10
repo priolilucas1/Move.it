@@ -12,8 +12,9 @@ Next Level Week #04 #NLW @Rocketseat
 
 <p>
   <img src="./public/assets/Login.png" width="470"/>
-  <img src="./public/assets/NewChallenge.png" width="470"/>
-  <img src="./public/assets/LevelUp.png" width="470" center/>
+  <img src="./public/assets/Home-screen.png" width="470"/>
+  <img src="./public/assets/Challenge.png" width="470"/>
+  <img src="./public/assets/Level.png" width="470"/>
 </p>
 
 
